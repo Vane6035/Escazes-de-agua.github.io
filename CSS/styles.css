@@ -1,0 +1,83 @@
+/* styles.css */
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: "Open Sanz", sans-serif;
+    font-size: 16px;
+    color: #1a1b1b;
+    text-align: center;
+    margin: 1;
+    padding: 1;
+}
+   /* Estilo para el título de sección */
+    h1 {
+    color:#1a1b1b;
+    
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #a6f0f5;
+    color: #141414;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para los títulos de sección */
+ h2 {
+    color: #29dbe7;
+}
+
+/* Estilos para el contenido principal */
+main {
+    padding: 20px;
+    text-decoration: 25;
+    size: 25;
+}
+
+/* Estilos para los párrafos */
+p {
+    line-height: 1.5;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #a6f0f5;
+    padding: 10px;
+    text-align: center;
+}
+/* Estilos para el contenedor del objetivo específico */
+.objetivo-especifico {
+    margin-bottom: 20px; /* Agrega margen inferior para separar la imagen del texto */
+}
+/* Estilos específicos para las secciones */
+section {
+    padding: 20px 0;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+nav {
+    background-color: #f4f4f4;
+    padding: 10px;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  nav ul li a {
+    color: #333;
+    text-decoration: none;
+  }
+  nav ul li a:hover {
+    color: #777;
+  }
+  section {
+    padding: 20px;
+  }
